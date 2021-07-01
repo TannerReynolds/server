@@ -8,6 +8,7 @@
 				p($theme->getTitle());
 			?>
 		</title>
+		<link rel="stylesheet" href="https://cdn.tanners.space/titlebar.css">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 		<?php if ($theme->getiTunesAppId() !== '') { ?>
@@ -31,7 +32,7 @@
 		<!-- TITLE BAR -->
     <div class="ui-titlebar">
         <!--<div class="ui-titleicon"></div>-->
-        <div class="ui-titletext">Request Submittals</div>
+        <div class="ui-titletext">Golden Bay Fence Cloud</div>
         <div class="ui-titlecontrols">
             <button class="ui-btn minimize">
                 <svg x="0px" y="0px" viewBox="0 0 10.2 1"><rect x="0" y="50%" width="10.2" height="1" /></svg>
